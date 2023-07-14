@@ -1,0 +1,14 @@
+.flex_box{
+    height: 200px ;
+    width: 700px;
+    border: 2px solid red;
+    display: flex;
+    justify-content: strat;
+    align-items: end;
+}
+.box-1{
+border: 2px dotted orangered;
+height: 20px;
+width: 100px;
+
+}
